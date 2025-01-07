@@ -1,5 +1,4 @@
-baseURL = 'https://mantejjosan.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'C++ Perserverant'
-theme = 'ananke'
-publishDir = "public"
+title = 'My New Hugo Site'
+theme = "ananke"
